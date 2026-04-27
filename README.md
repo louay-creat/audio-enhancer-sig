@@ -4,7 +4,7 @@
 
 Application Python pour enregistrer un audio, réduire le bruit, analyser la qualité du signal et exporter un rapport TXT/PDF.
 
-## 🚀 Quick Start (1 commande)
+## 🚀 Quick Start 
 
 Sur Windows (PowerShell) :
 
@@ -54,11 +54,10 @@ pip install -r requirements.txt
 
 ---
 
-# ✅ 4. Ajouter une section dédiée
 
-Ajoute aussi :
 
-```md
+
+```
 ## ⚡ Installation automatique
 
 Ce projet inclut un script d'installation automatique :
