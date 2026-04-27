@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.wav
+*.mp3
+*.png
+*.pdf
+.DS_Store
+.idea/
+.vscode/

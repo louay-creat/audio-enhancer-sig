@@ -1,0 +1,9 @@
+customtkinter
+librosa
+matplotlib
+numpy
+noisereduce
+sounddevice
+soundfile
+reportlab
+scipy
