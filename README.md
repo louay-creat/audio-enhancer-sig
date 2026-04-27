@@ -34,7 +34,7 @@ Application Python pour enregistrer un audio, réduire le bruit, analyser la qua
 
 ```bash
 
-git clone https://github.com/USERNAME/audio-enhancer-sig.git
+git clone https://github.com/louay-creat/audio-enhancer-sig.git
 
 cd audio-enhancer-sig
 
